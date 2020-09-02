@@ -1,0 +1,8 @@
+{
+  "name": "gusballard.works",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sillero/gusballard.works.git",
+  "author": "Gus Sillero <sillero@gmail.com>",
+  "license": "MIT"
+}
