@@ -6,6 +6,6 @@
   "author": "Gus Sillero <sillero@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "echo Someday it's gonna build"
+    "build": "echo \"Someday it's gonna build\""
   }
 }
