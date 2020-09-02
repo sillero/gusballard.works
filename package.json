@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:sillero/gusballard.works.git",
   "author": "Gus Sillero <sillero@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "echo Someday it's gonna build"
+  }
 }
